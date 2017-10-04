@@ -10,10 +10,22 @@ public class NavModel {
         return xPos;
     }
 
+    public void SetPositionX(float xPos)
+    {
+        this.xPos = xPos; 
+    }
+
     public float GetPositionY()
     {
         return yPos;
     }
+
+
+    public void SetPositionY(float yPos)
+    {
+        this.yPos = yPos;
+    }
+
 
     public int GetVelocity()
     {
