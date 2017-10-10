@@ -1,5 +1,6 @@
 ﻿
-public class NavModel {
+public class NavModel
+{
 
     private float xPos = 0;
     private float yPos = 0;
